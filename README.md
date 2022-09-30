@@ -19,6 +19,13 @@ server.py contains contributions from:
 * Jackson Z Chang
 * Mandy Meindersma 
 
+Used and learned decoding and encoding from these sites:
+* learned about encode() from here: https://www.programiz.com/python-programming/methods/string/encode
+* learned about decode from here: https://www.tutorialspoint.com/python/string_decode.htm
+
+Used TA Jihoon Og's notes to understand formats for headers:
+* Used TA Jihoon Og's notes from page 6 and on found here: https://github.com/jihoonog/School-Notes-Public/tree/master/CMPUT-404
+
 But the server.py example is derived from the python documentation
 examples thus some of the code is Copyright © 2001-2013 Python
 Software Foundation; All Rights Reserved under the PSF license (GPL
