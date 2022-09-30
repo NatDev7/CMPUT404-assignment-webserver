@@ -83,7 +83,7 @@ class MyWebServer(socketserver.BaseRequestHandler):
             self.return_405()
         
         #handle the 404 and 405 test cases
-        #throw a 404 is we have no data, empty list
+        #throw a 404 if we have no data, empty list
         if self.data == []:
             self.return_404()
 
